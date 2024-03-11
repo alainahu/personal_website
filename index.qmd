@@ -3,3 +3,5 @@ title: "Welcome to my site"
 ---
 
 Hi! I am a third-year undergraduate student at the University of Toronto.
+
+![capybara](images/capybara.jpg "Capybara")

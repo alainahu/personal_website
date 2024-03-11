@@ -7,3 +7,5 @@ I am studying economics, psychology, and statistics. I am passionate about probl
 projects, and extracurriculars, I have been able to grow my skills in these
 areas. In my free time, I love spending time with friends, listening to music,
 or exercising.
+
+![ ](images/profile-pic.jpg){width="350px" height="500px"}
